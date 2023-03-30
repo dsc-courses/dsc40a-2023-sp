@@ -1,4 +1,4 @@
-# dsc40a-2022-fa
+# dsc40a-2023-sp
 
 This branch contains the source code for the course website. Follow the instructions in [this video 🎥](https://www.youtube.com/watch?v=MEeLr9GRa3I) to make updates.
 
