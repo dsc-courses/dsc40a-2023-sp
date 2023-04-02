@@ -16,37 +16,37 @@ nav_order: 4
 
 ## Lecture Videos
 
-These are the lecture videos, which you should watch asynchronously by the date listed. We'll use our scheduled class time for further engagement with the material through groupwork, extra practice, and office hours for homework help.
+These are a set of lecture videos that I recorded when I taught this course asynchronously during the pandemic. Our in-person lectures this quarter will cover similar content, so these videos can be a helpful tool for you to prepare for lecture or review afterwards. You are responsible for all material covered in this quarter's lectures, whether or not that material is covered in this set of lecture videos.
 
-| **Video** | **Watch by** | **Topics** |
-| --- | --- | --- |
-|[Video 1](https://youtu.be/6tP6crJr32U) | Sunday, January 9 | learning from data, mean absolute error|  
-|[Video 2](https://youtu.be/ad2S7XnCSVc) | Sunday, January 9 | minimizing mean absolute error |
-|[Video 3](https://youtu.be/LYJW_2odH_E) | Sunday, January 9 | mean squared error |
-|[Video 4](https://youtu.be/usam2JTOaLg) | Sunday, January 9 | empirical risk minimization, general framework, 0-1 loss |
-|[Video 5](https://youtu.be/Syw_PfmWDRg) | Sunday, January 16 | UCSD loss |
-|[Video 6](https://youtu.be/F2ImJ3dkkZ8) | Sunday, January 16 | gradient descent |
-|[Video 7](https://youtu.be/1TjwPNY2Gzw) | Sunday, January 16 | gradient descent demo, convexity |
-|[Video 8](https://youtu.be/NdkDK3Jb6SY) | Sunday, January 16 | spread |
-|[Video 9](https://youtu.be/3RiaKo2jGIk) | Sunday, January 23 | linear prediction rule |
-|[Video 10](https://youtu.be/Ac1EFASUA9M)| Sunday, January 23 | least squares solutions |
-|[Video 11](https://youtu.be/0sWcrJSAUFQ)| Sunday, January 23 | regression interpretation |
-|[Video 12](https://youtu.be/bTp4vMu_9N0)| Sunday, January 23 | nonlinear trends |
-|[Video 13](https://youtu.be/7k3KtI4NFas)| Sunday, January 30 | linear algebra for regression |
-|[Video 14](https://youtu.be/2ebdHtxb4as)| Sunday, January 30 | gradient, normal equations |
-|[Video 15](https://youtu.be/uIbnLq6IZLI)| Sunday, January 30 | polynomial regression, nonlinear trends |
-|[Video 16](https://youtu.be/tuezO9tiXnE)| Sunday, January 30 | multiple regression |
-|[Video 17](https://youtu.be/dDn6iPpbH4E)| Sunday, February 6 | k-means clustering |
-|[Video 18](https://youtu.be/UPxe97Wc1gM)| Sunday, February 6 | k-means clustering, cost function, practical considerations |
-|[Video 19](https://youtu.be/ikLzykAaLOk)| Sunday, February 13 | probability, basic rules |
-|[Video 20](https://youtu.be/qHOG3yc4UzE)| Sunday, February 13 | conditional probability |
-|[Video 21](https://youtu.be/-3v6UZ_Cq9k)| Sunday, February 13 | probability, random sampling, sequences |
-|[Video 22](https://youtu.be/AfM9akq6PL0)| Sunday, February 20 |  combinatorics, sequences, sets, permutations, combinations |
-|[Video 23](https://youtu.be/fuaFj7aeg9I)| Sunday, February 20 |  counting and probability practice |
-|[Video 24](https://youtu.be/I3ZHwf8qWS4)| Sunday, February 20 |  law of total probability, Bayes' Theorem |
-|[Video 25](https://youtu.be/AUiX4gWWsuE)| Sunday, February 27 |  independence, conditional independence |
-|[Video 26](https://youtu.be/WLQMoA4ZAus)| Sunday, February 27 |  naive Bayes |
-|[Video 27](https://youtu.be/4tGtziW901Y)| Sunday, February 27 |  text classification, spam filter, naive Bayes | 
+| **Video** | **Topics** |
+| --- | --- |
+|[Video 1](https://youtu.be/6tP6crJr32U) | learning from data, mean absolute error|  
+|[Video 2](https://youtu.be/ad2S7XnCSVc) | minimizing mean absolute error |
+|[Video 3](https://youtu.be/LYJW_2odH_E) | mean squared error |
+|[Video 4](https://youtu.be/usam2JTOaLg) | empirical risk minimization, general framework, 0-1 loss |
+|[Video 5](https://youtu.be/Syw_PfmWDRg) | UCSD loss |
+|[Video 6](https://youtu.be/F2ImJ3dkkZ8) | gradient descent |
+|[Video 7](https://youtu.be/1TjwPNY2Gzw) | gradient descent demo, convexity |
+|[Video 8](https://youtu.be/NdkDK3Jb6SY) | spread |
+|[Video 9](https://youtu.be/3RiaKo2jGIk) | linear prediction rule |
+|[Video 10](https://youtu.be/Ac1EFASUA9M)| least squares solutions |
+|[Video 11](https://youtu.be/0sWcrJSAUFQ)| regression interpretation |
+|[Video 12](https://youtu.be/bTp4vMu_9N0)| nonlinear trends |
+|[Video 13](https://youtu.be/7k3KtI4NFas)| linear algebra for regression |
+|[Video 14](https://youtu.be/2ebdHtxb4as)| gradient, normal equations |
+|[Video 15](https://youtu.be/uIbnLq6IZLI)| polynomial regression, nonlinear trends |
+|[Video 16](https://youtu.be/tuezO9tiXnE)| multiple regression |
+|[Video 17](https://youtu.be/dDn6iPpbH4E)| k-means clustering |
+|[Video 18](https://youtu.be/UPxe97Wc1gM)| k-means clustering, cost function, practical considerations |
+|[Video 19](https://youtu.be/ikLzykAaLOk)| probability, basic rules |
+|[Video 20](https://youtu.be/qHOG3yc4UzE)| conditional probability |
+|[Video 21](https://youtu.be/-3v6UZ_Cq9k)| probability, random sampling, sequences |
+|[Video 22](https://youtu.be/AfM9akq6PL0)| combinatorics, sequences, sets, permutations, combinations |
+|[Video 23](https://youtu.be/fuaFj7aeg9I)| counting and probability practice |
+|[Video 24](https://youtu.be/I3ZHwf8qWS4)| law of total probability, Bayes' Theorem |
+|[Video 25](https://youtu.be/AUiX4gWWsuE)| independence, conditional independence |
+|[Video 26](https://youtu.be/WLQMoA4ZAus)| naive Bayes |
+|[Video 27](https://youtu.be/4tGtziW901Y)| text classification, spam filter, naive Bayes | 
 
 ## Course Notes
 The notes for this class were written by me and Justin Eldridge. These notes cover the material from the first half of the course and align very closely with the material you'll see in the lecture videos.
