@@ -70,9 +70,9 @@ You can attend any lecture section, but if space fills up, priority will be give
 
 See the homepage of this website and the [Resources](../resources) tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
 
-### Groupwork
+### Discussion
 
-Discussion sections will be used to facilitate problem-solving in small groups with peers. There are two discussion sections on Wednesday evenings:
+Discussion sections will be primarily used to facilitate problem-solving in small groups with peers. There are two discussion sections on Wednesday evenings:
 - A00: Weds 7-7:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
 - B00: Weds 8-8:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
 
