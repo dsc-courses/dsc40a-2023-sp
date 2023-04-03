@@ -13,7 +13,7 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{: .success } Welcome! Please carefully read the [Syllabus](../Syllabus), and I'll see you in class on Monday!
+{: .welcome} Please carefully read the [Syllabus](../syllabus) and join [Campuswire](https://campuswire.com/p/GAA3B3FEA) for announcements. I'll see you in class on Monday!
 
 {{ site.staffersnobio }}
 
