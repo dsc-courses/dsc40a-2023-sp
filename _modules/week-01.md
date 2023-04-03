@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-3
         events:
-          "**LEC 1**{: .label .label-lecture } (coming soon)":
+          "**LEC 1**{: .label .label-lecture } [Learning from Data](resources/lecture/lec01.pdf)": 
           "**SRV**{: .label .label-survey } [Welcome Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
       - date: 2023-4-5
         events:
