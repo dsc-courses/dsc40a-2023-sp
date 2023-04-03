@@ -1,28 +1,16 @@
 ---
-    title: Week 5 – Midterm!
+    title: Week 5 – Feature Engineering
     weekNumber: 5
     days:
-      - date: 2022-10-24
+      - date: 2021-10-26
         events:
-          "**LEC 14 Son**{: .label .label-lecture } [ML and Clustering](resources/lecture/lec14_son.pdf)": 
-            
-
-          "**LEC 14 Mahdi**{: .label .label-lecture } [Feature Engineering, Clustering](resources/lecture/lec14_mahdi.pdf), [Annotated](resources/lecture/lec14_mahdi_annotated.pdf),  [Code](https://datahub.ucsd.edu/user/msoleymani/notebooks/public/msoleymani/lec13/lec13.ipynb)": 
-          "**DISCUSSION 4**{: .label .label-disc } Discussion 4":
-           
-          
-      - date: 2022-10-26
+          "**LEC 9**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lecture/lec09-filled.pdf) ([blank](resources/lecture/lec09-blank.pdf)) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec09/lec09.ipynb))":
+            "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
+      - date: 2021-10-27
         events:
-          "**LEC 15 Son**{: .label .label-lecture } [Clustering](resources/lecture/lec15_son.pdf), [Code](resources/lecture/lec15_son_demo.zip)":
-          "**LEC 15 Mahdi**{: .label .label-lecture } Review Session ":
-
-
-      
-      - date: 2022-10-28
+          "**DISC 4**{: .label .label-disc} Multiple Linear Regression (due 10/28)":
+      - date: 2021-10-28
         events:
-          "**Midterm**{: .label .label-exam } Midterm Exam❗":
-
-          "**HW4 OUT**{: .label .label-assign } [Homework 4 Write-up](resources/homework/hw4.pdf)":
-          
-            
+          "**LEC 10**{: .label .label-lecture } [Feature Engineering, Clustering](resources/lecture/lec10-filled.pdf) ([blank](resources/lecture/lec10-blank.pdf)) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec10/lec10.ipynb))":
+            "[C2, P14-19](resources/notes/notes_chapter_2.pdf#page=14)"
 ---

@@ -1,12 +1,11 @@
 ---
-    title: Week 11 – Enjoy Your Break!
+    title: Week 11
     weekNumber: 11
     days:
-      - date: 2022-12-6
+      - date: 2021-12-6
+        events:           
+          "**SRV**{: .label .label-survey } End of Quarter Survey (due 12/6)":
+      - date: 2021-12-8
         events:
-          "**HW8 DUE**{: .label .label-due } **Optional!!** Submit before 2:00pm on Gradescope" :
-      
-
-          
-            
+          "**Exam**{: .label .label-exam } Final Exam (11:30AM-2:30PM, remote)":
 ---

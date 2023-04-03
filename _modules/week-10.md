@@ -1,31 +1,18 @@
 ---
-    title: Week 10 – Last Week!
+    title: Week 10 – Conclusion
     weekNumber: 10
     days:
-      - date: 2022-11-28
+      - date: 2021-11-30
         events:
-          "**HW7 DUE**{: .label .label-due } Submit before 2:00pm on Gradescope" :
-          "**LEC 26 Son**{: .label .label-lecture } [LR and MLE Cont](resources/lecture/lec26_son.pdf)": 
-          "**LEC 26 Mahdi**{: .label .label-lecture } [Review](resources/lecture/lec26_mahdi.pdf), [Annotated](resources/lecture/lec26_mahdi_Annotated.pdf)": 
-          
-           
-          
-      - date: 2022-11-30
+          "**LEC 17**{: .label .label-lecture } [More Naive Bayes](resources/lecture/lec17-filled.pdf) ([blank](resources/lecture/lec17-blank.pdf)) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec17/lec17.ipynb))":
+      - date: 2021-12-1
         events:
-          "**LEC 27 Son**{: .label .label-lecture } [Course summary](resources/lecture/lec27_son.pdf)":
-          "**LEC 27 Mahdi**{: .label .label-lecture }[Review](resources/lecture/lec27_mahdi.pdf), [Annotated](resources/lecture/lec27_mahdi_annotated.pdf)":
-    
-      - date: 2022-12-2
+          "**DISC 8**{: .label .label-disc} Probability Review (Optional) ([recording](https://campuswire.com/c/GF82D3B2E/feed/536))":
+      - date: 2021-12-2
         events:
-          "**LEC 28 Son**{: .label .label-lecture } [Review problems](resources/lecture/lec28_son.pdf)":
-          "**LEC 28 Mahdi**{: .label .label-lecture }[Annotated](resources/lecture/lec28_mahdi_annotated.pdf)":
+          "**LEC 18**{: .label .label-lecture } [Review, Conclusion](resources/lecture/lec18-filled.pdf) ([blank](resources/lecture/lec18-blank.pdf))":
+      - date: 2021-12-3
+        events:
+          "**HW 8**{: .label .label-hw } Naive Bayes (due 12/3)":
 
-
-      - date: 2022-12-3
-        events:
-          "**Final**{: .label .label-exam } Final Exam❗":
-      
-
-          
-            
 ---
