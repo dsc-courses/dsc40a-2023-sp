@@ -11,7 +11,7 @@
       - date: 2023-5-3
         events:
           "**LEC 14**{: .label .label-lecture } (coming soon)":
-          "**GW 5**{: .label .label-disc } (coming soon)":
+          "**DISC**{: .label .label-disc } Midterm 1 Prep":
       - date: 2023-5-5
         events:
           "**EXAM**{: .label .label-exam } Midterm 1 (during lecture)":

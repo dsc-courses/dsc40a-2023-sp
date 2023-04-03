@@ -11,7 +11,7 @@
       - date: 2023-4-19
         events:
           "**LEC 8**{: .label .label-lecture } (coming soon)":
-          "**GW 3**{: .label .label-disc } (coming soon)":
+          "**DISC**{: .label .label-disc } Groupwork 3":
       - date: 2023-4-21
         events:
           "**LEC 9**{: .label .label-lecture } (coming soon)":

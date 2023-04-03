@@ -8,7 +8,7 @@
       - date: 2023-6-7
         events:
           "**LEC 26**{: .label .label-lecture } (coming soon)":
-          "**GW 10**{: .label .label-disc } (coming soon)":
+          "**DISC**{: .label .label-disc } Final Exam Prep":
       - date: 2023-6-9
         events:
           "**LEC 27**{: .label .label-lecture } (coming soon)":
