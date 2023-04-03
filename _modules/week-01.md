@@ -9,6 +9,7 @@
       - date: 2023-4-5
         events:
           "**LEC 2**{: .label .label-lecture } [Lecture 1]":
+
           "**DISC 1**{: .label .label-disc} Groupwork 1":
       - date: 2023-4-7
         events:
