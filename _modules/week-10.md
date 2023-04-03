@@ -1,5 +1,5 @@
 ---
-    title: Week 10 – Conclusion
+    title: Week 10 – Review and Conclusion
     weekNumber: 10
     days:
       - date: 2023-6-5

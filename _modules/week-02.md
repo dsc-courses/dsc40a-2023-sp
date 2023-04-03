@@ -5,6 +5,9 @@
       - date: 2023-4-10
         events:
           "**LEC 4**{: .label .label-lecture } (coming soon)":
+      - date: 2023-4-11
+        events:
+          "**HW 1**{: .label .label-hw } (coming soon)":
       - date: 2023-4-12
         events:
           "**LEC 5**{: .label .label-lecture } (coming soon)":
