@@ -64,9 +64,11 @@ There are two lecture sections:
 
 Lecture is meant to introduce you to the main concepts of the course. Attendance is highly encouraged and positively correlated with success in the course, though it will not be required. Attending lecture gives you the opportunity to ask questions, answer ungraded concept-check polls, and participate in discussion.
 
+Lectures will be podcasted recordings will be [available online](https://podcast.ucsd.edu/) within a few hours.
+
 You can attend any lecture section, but if space fills up, priority will be given to students officially enrolled in that section. For the midterm exam, you must attend the lecture section in which you are officially enrolled.
 
-See the homepage of this website and the [Resources](../resources) tab for access to helpful resources, including videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
+See the homepage of this website and the [Resources](../resources) tab for access to helpful resources that will help solidify your understanding of concepts covered in lecture. These include videos, slides, readings, and sometimes code. These will be your primary resources in this class, as there is no formal textbook.
 
 ### Groupwork
 
@@ -74,13 +76,13 @@ Discussion sections will be used to facilitate problem-solving in small groups w
 - A00: Weds 7-7:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
 - B00: Weds 8-8:50pm in [FAH 1101](https://map.concept3d.com/?id=1005#!m/610083)
 
-Just show up at any one of them, and the instructor or TA will pair you with other students. If you want to organize your own group, you may; make sure to all come to the same groupwork session.
+We will provide a worksheet of problems, which you will complete in a group of two to four students. The groupwork should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment. 
 
-We will provide a worksheet of problems, which should help reinforce concepts from the lecture and prepare you to do the upcoming homework assignment. You will complete the worksheet in a group of two to four students. If you have specific people in your section that you want to work with, you may work together, otherwise, the TA will pair you with other students.
+You must attend the discussion section you are officially enrolled in. **Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 80 percent credit.** 
 
-You must attend the discussion section you are officially enrolled in. **Attendance at discussion section is required for full credit on the groupwork, but if you cannot attend, you may complete the groupwork worksheet in a self-organized group of two to four students outside of the discussion section for 80 percent credit.**
+If you have specific people in your section that you want to work with, you may work together, otherwise, the TA will pair you with other students.
 
-Submit your worksheet to Gradescope by 11:59pm on Wednesday nigth. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
+Submit your worksheet to Gradescope by 11:59pm on Wednesday night. Only one member of each group should submit the worksheet, and they should indicate the names of all group members on Gradescope. Worksheets won’t be graded on correctness, but rather on good-faith effort. Even if you don’t solve any of the problems, you should include some explanation of what you thought about and discussed, so that you can get credit for spending time on the assignment. **In order to receive credit, you must work in a group of two to four students for at least 50 minutes. You may not do the groupwork alone.**
 
 ### Homeworks
 
@@ -97,7 +99,7 @@ As a result of this collaboration policy, students may have similar approaches t
 
 For each problem you submit, you should cite your sources by including a list of names of other students with whom you discussed the problem. Instructors do not need to be cited.
 
-We also encourage you to come to instructor and staff office hours for help on homework questions. The homework assignments for this class are quite challenging and most students are not able to successfully complete the homework from attending lecture alone. Make sure to use the resouces provided on the [Resources](../resources) tab of the course website, actively participate in groupwork sessions, and plan to attend office hours at least once a week. Even if you don’t have specific questions, you will likely get a lot out of conversing about the material. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule of office hours, and directions for how to find us!
+We also encourage you to come to instructor and staff office hours for help on homework questions. The homework assignments for this class are quite challenging and most students are not able to successfully complete the homework from attending lecture alone. Make sure to use the resources provided on the [Resources](../resources) tab of the course website, actively participate in groupwork sessions, and plan to attend office hours at least once a week. Even if you don’t have specific questions, you will likely get a lot out of conversing about the material. See the [Calendar](../calendar) tab of the course website for the most up-to-date schedule of office hours, and directions for how to find us!
 
 You may post homework-related questions on Campuswire, though your questions (and answers) should be about approaches, not answers. If your question includes some or all of an answer (even if you're not sure it's right), you must make your post private so that others cannot see it. We are not able to tell you whether your answer is correct. 
 
@@ -117,7 +119,7 @@ To summarize, here's what a typical week will look like in the course (there may
 There will be two midterm exams (not cumulative) and a final exam broken into two separate parts. 
 
 - Midterm 1: Friday, May 5, in-person during lecture (10am for A00, 11am for B00)
-- Midterm 2:  Friay, June 5, in-person during lecture (10am for A00, 11am for B00)
+- Midterm 2:  Friday, June 5, in-person during lecture (10am for A00, 11am for B00)
 - Final, Part 1: Saturday, June 10, in-person from 9-9:50am
 - Final, Part 2: Saturday, June 10, in-person from 10-10:50am
 
@@ -142,7 +144,7 @@ Here's how we will compute your grade.
            
 ### Late Policy, Slip Days, and Drops
 
-Each student has **three** slip days to use throughout the quarter. A slip day can be used to extend the deadline of a homework assignment by 24 hours. You can use at most one slip day on any single homework assignment. **Slip days can only be used for homework assignments.**
+Each student has **three slip days** to use throughout the quarter. A slip day can be used to extend the deadline of a homework assignment by 24 hours. You can use at most one slip day on any single homework assignment. **Slip days can only be used for homework assignments.**
 
 Slip days are applied automatically at the end of the quarter, and you don't need to ask in order to use one. It's your responsibility to keep track of how many you have left. If you run out of slip days and submit a homework late, it may still be graded so that you'll see what questions you missed, but the grade will be changed to a zero at the end of the quarter. If you use more than three slip days, we will count the first three late assignments, and any late assignments after that will get zero scores.
 
@@ -213,4 +215,4 @@ We also expect that you, as a student in this course, will honor and respect you
 
 ## Acknowledgements 🙏
 
-Thanks to the following other instructors who have made contributions to this course: Justin Eldridge, Suraj Rampure, Yian Ma, Gal Mishne, and Giorgio Quer. Thanks also to the tutors and TAs who have supported this course!
+Thanks to other instructors of this course who have made various contributions, including but not limited to Justin Eldridge, Suraj Rampure, Yian Ma, and Gal Mishne. Thanks also to the many tutors and TAs who have supported this course since its inception!
