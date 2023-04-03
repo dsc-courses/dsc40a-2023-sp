@@ -4,12 +4,12 @@
     days:
       - date: 2023-4-24
         events:
-          "**LEC 1**{: .label .label-lecture } (coming soon)":
+          "**LEC 10**{: .label .label-lecture } (coming soon)":
       - date: 2023-4-26
         events:
-          "**LEC 2**{: .label .label-lecture } (coming soon)":
-          "**GW 1**{: .label .label-disc } (coming soon)":
+          "**LEC 11**{: .label .label-lecture } (coming soon)":
+          "**GW 4**{: .label .label-disc } (coming soon)":
       - date: 2023-4-28
         events:
-          "**LEC 3**{: .label .label-lecture } (coming soon)":
+          "**LEC 12**{: .label .label-lecture } (coming soon)":
 ---
