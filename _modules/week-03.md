@@ -2,19 +2,14 @@
     title: Week 3 – Simple Linear Regression
     weekNumber: 3
     days:
-      - date: 2021-10-11
+      - date: 2023-4-17
         events:
-          "**HW 2**{: .label .label-hw } Empirical Risk and Gradient Descent (due 10/11)":
-          "**SRV 2**{: .label .label-survey } Survey 2 (due 10/11)":
-      - date: 2021-10-12
+          "**LEC 1**{: .label .label-lecture } (coming soon)":
+      - date: 2023-4-19
         events:
-          "**LEC 6**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec06.pdf)":
-            "[C2, P1-7](resources/notes/notes_chapter_2.pdf#page=1)"
-      - date: 2021-10-13
+          "**LEC 2**{: .label .label-lecture } (coming soon)":
+          "**GW 1**{: .label .label-disc } (coming soon)":
+      - date: 2023-4-21
         events:
-          "**DISC 3**{: .label .label-disc} Simple Linear Regression (due 10/14)":
-      - date: 2021-10-14
-        events:
-          "**LEC 7**{: .label .label-lecture } [More Simple Linear Regression](resources/lecture/lec07.pdf) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec07/lec07.ipynb))":
-            "[C2, P1-7](resources/notes/notes_chapter_2.pdf#page=1), [DSC10](https://inferentialthinking.com/chapters/15/1/Correlation.html)"
+          "**LEC 3**{: .label .label-lecture } (coming soon)":
 ---

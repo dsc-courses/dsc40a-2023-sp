@@ -1,17 +1,15 @@
 ---
-    title: Week 4 – Midterm
+    title: Week 4 – Multiple Linear Regression
     weekNumber: 4
     days:
-      - date: 2021-10-18
+      - date: 2023-4-24
         events:
-          "**HW 3**{: .label .label-hw } Simple Linear Regression (due 10/18)":
-          "**SRV 3**{: .label .label-survey } Survey 3 (due 10/18)":
-      - date: 2021-10-19
+          "**LEC 1**{: .label .label-lecture } (coming soon)":
+      - date: 2023-4-26
         events:
-          "**LEC 8**{: .label .label-lecture } [Regression and Linear Algebra](resources/lecture/lec08.pdf) ([code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2021-fa&subPath=lectures/lec08/lec08.ipynb))":
-            "[C2, P9-13](resources/notes/notes_chapter_2.pdf#page=9)"
-          "**REV**{: .label .label-proj } [Midterm Review Session](resources/lecture/midterm-review.pdf) (5-8PM, PCYNH 109)":
-      - date: 2021-10-21
+          "**LEC 2**{: .label .label-lecture } (coming soon)":
+          "**GW 1**{: .label .label-disc } (coming soon)":
+      - date: 2023-4-28
         events:
-          "**Exam**{: .label .label-exam } Midterm (in lecture)":
+          "**LEC 3**{: .label .label-lecture } (coming soon)":
 ---

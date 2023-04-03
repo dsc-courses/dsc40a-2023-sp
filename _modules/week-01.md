@@ -6,11 +6,11 @@
         events:
           "**LEC 1**{: .label .label-lecture } (coming soon)":
           "**SRV**{: .label .label-survey } [Welcome Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
-      - date: 2021-10-5
+      - date: 2023-4-5
         events:
           "**LEC 2**{: .label .label-lecture } (coming soon)":
           "**GW 1**{: .label .label-disc } (coming soon)":
-      - date: 2021-10-6
+      - date: 2023-4-7
         events:
           "**LEC 3**{: .label .label-lecture } (coming soon)":
 
