@@ -6,7 +6,7 @@
         events:
           "**LEC 1**{: .label .label-lecture } [Learning from Data](resources/lecture/lec01.pdf)": 
             "[📖 pg 1-5](resources/notes/notes_chapter_1.pdf#page=1)"
-          "**SRV**{: .label .label-survey } [Welcome Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
+          "**SURV**{: .label .label-survey } [Welcome Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
       - date: 2023-4-5
         events:
           "**LEC 2**{: .label .label-lecture } (coming soon)":
