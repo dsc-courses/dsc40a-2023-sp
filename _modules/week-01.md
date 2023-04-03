@@ -1,6 +1,6 @@
 ---
     title: Week 1 – Loss Functions and Empirical Risk Minimization
-    weekNumber: 2
+    weekNumber: 1
     days:
       - date: 2023-4-3
         events:
