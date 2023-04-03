@@ -2,14 +2,14 @@
     title: Week 9 – Naive Bayes
     weekNumber: 9
     days:
-      - date: 2021-11-22
+      - date: 2023-5-22
         events:
-          "**HW 7**{: .label .label-hw } Conditional Probability and Independence (due 11/22)":
-          "**SRV 7**{: .label .label-survey } Survey 7 (due 11/22)":
-      - date: 2021-11-23
+          "Memorial Day Holiday":
+      - date: 2023-5-31
         events:
-          "**LEC 16**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec16-filled.pdf) ([blank](resources/lecture/lec16-blank.pdf))":
-      - date: 2021-11-25
+          "**LEC 24**{: .label .label-lecture } (coming soon)":
+          "**GW 8**{: .label .label-disc } (coming soon)":
+      - date: 2023-6-2
         events:
-          "N/A (Thanksgiving 🦃)":
+          "**LEC 25**{: .label .label-lecture } (coming soon)":
 ---
