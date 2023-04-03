@@ -92,6 +92,6 @@ callouts:
   note:
     title: Note
     color: yellow
-  welcome:
-    title: Welcome!
+  success:
+    title: ""
     color: green
