@@ -13,12 +13,9 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{: .warning }
-The site is currently under construction.
+{: .success } Welcome! Please carefully read the [Syllabus](../Syllabus), and I'll see you in class on Monday!
 
 {{ site.staffersnobio }}
-
-<!-- [Lecture Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue }  -->
 
 <!-- [Assignment Solutions](https://campuswire.com/c/GF82D3B2E/feed/73){: .btn .btn-purple } -->
 
