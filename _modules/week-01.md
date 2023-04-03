@@ -4,14 +4,14 @@
     days:
       - date: 2023-4-3
         events:
-          "**LEC 1**{: .label .label-lecture } Lecture 1":
-          "**SRV**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
+          "**LEC 1**{: .label .label-lecture } (coming soon)":
+          "**SRV**{: .label .label-survey } [Welcome Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
       - date: 2021-10-5
         events:
-          "**LEC 2**{: .label .label-lecture } Lecture 2":
-          "**DISC 1**{: .label .label-disc } Groupwork 1":
+          "**LEC 2**{: .label .label-lecture } (coming soon)":
+          "**GW 1**{: .label .label-disc } (coming soon)":
       - date: 2021-10-6
         events:
-          "**LEC 1**{: .label .label-lecture } Lecture 1":
+          "**LEC 3**{: .label .label-lecture } (coming soon)":
 
 ---
