@@ -6,6 +6,8 @@
         events:
           "**LEC 1**{: .label .label-lecture } Lecture 1":
             "[C1, P1-5](resources/notes/notes_chapter_1.pdf#page=1)"
+
+	  "**SUR**{: .label .label-survey } [Beginning of Quarter Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
       - date: 2023-4-5
         events:
           "**LEC 2**{: .label .label-lecture } Lecture 2":
