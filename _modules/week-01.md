@@ -8,10 +8,10 @@
             "[C1, P1-5](resources/notes/notes_chapter_1.pdf#page=1)"
       - date: 2023-4-5
         events:
-          "**LEC 2**{: .label .label-lecture } [Lecture 1]":
+          "**LEC 2**{: .label .label-lecture } Lecture 2":
 
           "**DISC 1**{: .label .label-disc} Groupwork 1":
       - date: 2023-4-7
         events:
-          "**LEC 3**{: .label .label-lecture } ":
+          "**LEC 3**{: .label .label-lecture } Lecture 3":
 ---
