@@ -2,7 +2,7 @@
     title: Week 9 – Naive Bayes
     weekNumber: 9
     days:
-      - date: 2023-5-22
+      - date: 2023-5-29
         events:
           "Memorial Day Holiday":
       - date: 2023-5-31

@@ -1,5 +1,5 @@
 ---
-    title: Week 8 – More Probability
+    title: Week 8 – More Probability and Independence
     weekNumber: 8
     days:
       - date: 2023-5-22

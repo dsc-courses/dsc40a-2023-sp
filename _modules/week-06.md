@@ -1,5 +1,5 @@
 ---
-    title: Week 6 – Clustering, Probability
+    title: Week 6 – Probability
     weekNumber: 6
     days:
       - date: 2023-5-8
