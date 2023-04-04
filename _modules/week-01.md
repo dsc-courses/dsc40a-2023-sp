@@ -4,13 +4,13 @@
     days:
       - date: 2023-4-3
         events:
-          "**LEC 1**{: .label .label-lecture } [Learning from Data](resources/lecture/lec01.pdf)": 
+          "**LEC 1**{: .label .label-lecture } [Learning from Data](resources/lecture/lec01.pdf) [✏️](resources/lecture/lec01_a00.pdf)": 
             "[📖 pg 1-5](resources/notes/notes_chapter_1.pdf#page=1)"
           "**SURV**{: .label .label-survey } [Welcome Survey](https://forms.gle/cgBwYyFeSPYUy1Vv8)":
       - date: 2023-4-5
         events:
           "**LEC 2**{: .label .label-lecture } (coming soon)":
-          "**DISC**{: .label .label-disc } Groupwork 1":
+          "**DISC**{: .label .label-disc } [Groupwork 1](resources/groupwork/groupwork1.pdf)":
       - date: 2023-4-7
         events:
           "**LEC 3**{: .label .label-lecture } (coming soon)":
