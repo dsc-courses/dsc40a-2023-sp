@@ -88,7 +88,9 @@ Submit your worksheet to Gradescope by 11:59pm on Wednesday night. Only one memb
 
 This class will have weekly homework assignments, which will be due to Gradescope on Tuesdays at 11:59pm.
 
-Homeworks should be written up and turned in by each student individually. You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to do a homework problem, but you cannot show them how to do it. One way to tell if you are respecting this boundary is to ask yourself whether your collaboration could take place over the phone. Additionally, the content of your verbal communication should involve the problem-solving strategy and approach, and you should not directly compare answers with classmates.
+Homeworks should be written or typed up and turned in by each student individually. If you want to type up your answers, we will provide a LaTeX template through Overleaf; click the 🍃 emoji next to each homework on the homepage to access the template. Follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make a copy of the template, and then add your solutions. 
+
+You may talk to other students in the class about the problems and discuss solution strategies, but you should not share any written communication. You can tell someone how to do a homework problem, but you cannot show them how to do it. One way to tell if you are respecting this boundary is to ask yourself whether your collaboration could take place over the phone. Additionally, the content of your verbal communication should involve the problem-solving strategy and approach, and you should not directly compare answers with classmates.
 
 Talking through homework problems with other students can be very valuable for many reasons:
 - You will learn about someone else’s thought process and learn new ways of solving problems that you may not have thought of.
