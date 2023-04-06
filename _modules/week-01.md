@@ -14,6 +14,7 @@
           "**DISC**{: .label .label-disc } [Groupwork 1](resources/groupwork/groupwork1.pdf)":
       - date: 2023-4-7
         events:
-          "**LEC 3**{: .label .label-lecture } (coming soon)":
+          "**LEC 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lecture/lec03.pdf)": 
+            "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)
 
 ---
