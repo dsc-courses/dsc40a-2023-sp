@@ -15,6 +15,6 @@
       - date: 2023-4-7
         events:
           "**LEC 3**{: .label .label-lecture } [Mean Squared Error and Empirical Risk Minimization](resources/lecture/lec03.pdf)": 
-            "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)
+            "[📖 pg 9-12](resources/notes/notes_chapter_1.pdf#page=9)"
 
 ---
