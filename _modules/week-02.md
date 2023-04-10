@@ -12,7 +12,7 @@
       - date: 2023-4-12
         events:
           "**LEC 5**{: .label .label-lecture } (coming soon)":
-          "**DISC**{: .label .label-disc } Groupwork 2":
+          "**DISC**{: .label .label-disc } [Groupwork 2](resources/groupwork/groupwork2.pdf)":
       - date: 2023-4-14
         events:
           "**LEC 6**{: .label .label-lecture } (coming soon)":
