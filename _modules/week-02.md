@@ -5,6 +5,7 @@
       - date: 2023-4-10
         events:
           "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf)":
+          "[📖 pg 12-16](resources/notes/notes_chapter_1.pdf#page=12)"
       - date: 2023-4-11
         events:
           "**HW 1**{: .label .label-hw } [Homework 1](resources/homework/hw1/homework1.pdf) [🍃](https://www.overleaf.com/read/fjnjfjndmszp)":
