@@ -11,7 +11,7 @@
           "**HW 1**{: .label .label-hw } [Homework 1](resources/homework/hw1/homework1.pdf) [🍃](https://www.overleaf.com/read/fjnjfjndmszp)":
       - date: 2023-4-12
         events:
-          "**LEC 5**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05.pdf)": 
+          "**LEC 5**{: .label .label-lecture } [Gradient Descent](resources/lecture/lec05.pdf) [✏️](resources/lecture/lec05_b00.pdf)": 
             "[📖 15-17](resources/notes/notes_chapter_1.pdf#page=15)"
           "**DISC**{: .label .label-disc } [Groupwork 2](resources/groupwork/groupwork2.pdf)":
       - date: 2023-4-14
