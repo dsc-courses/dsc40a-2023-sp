@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-10
         events:
-          "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf)": 
+          "**LEC 4**{: .label .label-lecture } [Center and Spread, Other Loss Functions](resources/lecture/lec04.pdf) [✏️](resources/lecture/lec04_a00.pdf)": 
             "[📖 12-16](resources/notes/notes_chapter_1.pdf#page=12) + [📖](resources/notes/spread.pdf)"
       - date: 2023-4-11
         events:
