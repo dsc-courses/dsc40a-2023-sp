@@ -16,5 +16,5 @@
           "**DISC**{: .label .label-disc } [Groupwork 2](resources/groupwork/groupwork2.pdf)":
       - date: 2023-4-14
         events:
-          "**LEC 6**{: .label .label-lecture } Gradient Descent in Action [Code](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec06/lec06.ipynb)":
+          "**LEC 6**{: .label .label-lecture } [Gradient Descent in Action](resources/lecture/lec06.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec06/lec06.ipynb)":
 ---
