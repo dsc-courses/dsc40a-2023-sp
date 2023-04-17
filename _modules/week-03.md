@@ -4,7 +4,8 @@
     days:
       - date: 2023-4-17
         events:
-          "**LEC 7**{: .label .label-lecture } (coming soon)":
+          "**LEC 7**{: .label .label-lecture } [Linear Prediction Rules](resources/lecture/lec07.pdf)":
+          "[📖 1-4](resources/notes/notes_chapter_2.pdf#page=1)"
       - date: 2023-4-18
         events:
           "**HW 2**{: .label .label-hw } [Homework 2](resources/homework/hw2/homework2.pdf) [🍃](https://www.overleaf.com/read/jbcdzmjyrhyt)":
