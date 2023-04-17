@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-17
         events:
-          "**LEC 7**{: .label .label-lecture } [Linear Prediction Rules](resources/lecture/lec07.pdf)": 
+          "**LEC 7**{: .label .label-lecture } [Linear Prediction Rules](resources/lecture/lec07.pdf) [✏️](resources/lecture/lec07_a00.pdf)": 
             "[📖 1-4](resources/notes/notes_chapter_2.pdf)"
       - date: 2023-4-18
         events:
