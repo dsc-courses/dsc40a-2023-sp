@@ -11,8 +11,9 @@
           "**HW 2**{: .label .label-hw } [Homework 2](resources/homework/hw2/homework2.pdf) [🍃](https://www.overleaf.com/read/jbcdzmjyrhyt)":
       - date: 2023-4-19
         events:
-          "**LEC 8**{: .label .label-lecture } (coming soon)":
-          "**DISC**{: .label .label-disc } Groupwork 3":
+          "**LEC 8**{: .label .label-lecture } [Simple Linear Regression](resources/lecture/lec08.pdf)":
+            "[📖 4-7](resources/notes/notes_chapter_2.pdf)"
+          "**DISC**{: .label .label-disc } [Groupwork 3](resources/groupwork/groupwork3.pdf)":
       - date: 2023-4-21
         events:
           "**LEC 9**{: .label .label-lecture } (coming soon)":
