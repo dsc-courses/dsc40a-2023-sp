@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Homework 2 is now posted. As before, I've provided a LaTeX template through Overleaf; click the 🍃 emoji next to the homework to access it. Follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project) to make a copy of the template, and then add your solutions. Typing your solutions in LaTeX is optional, but it's good to learn how to do!
+Homework 3 is now posted. To copy the Overleaf template, follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project). This is a pretty long homework, so make sure to get started early, and attend lecture so you don't fall behind.
 
 {{ site.staffersnobio }}
 
