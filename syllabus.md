@@ -121,7 +121,7 @@ To summarize, here's what a typical week will look like in the course (there may
 There will be two midterm exams (not cumulative) and a final exam broken into two separate parts. 
 
 - Midterm 1: Friday, May 5, in-person during lecture (10am for A00, 11am for B00)
-- Midterm 2:  Friday, June 5, in-person during lecture (10am for A00, 11am for B00)
+- Midterm 2:  Monday, June 5, in-person during lecture (10am for A00, 11am for B00)
 - Final, Part 1: Saturday, June 10, in-person from 9-9:50am
 - Final, Part 2: Saturday, June 10, in-person from 10-10:50am
 
