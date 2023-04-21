@@ -16,5 +16,5 @@
           "**DISC**{: .label .label-disc } [Groupwork 3](resources/groupwork/groupwork3.pdf)":
       - date: 2023-4-21
         events:
-          "**LEC 9**{: .label .label-lecture } (coming soon)":
+          "**LEC 9**{: .label .label-lecture } [Regression in Action and Linear Algebra Review](resources/lecture/lec09.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec09/lec09.ipynb)":
 ---
