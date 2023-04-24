@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-24
         events:
-          "**LEC 10**{: .label .label-lecture } [Regression via Linear Algebra](resources/lecture/lec10.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec10/lec10.ipynb)":
+          "**LEC 10**{: .label .label-lecture } [Regression via Linear Algebra](resources/lecture/lec10.pdf) [✏️](resources/lecture/lec10_b00.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec10/lec10.ipynb)":
             "[📖 9-13](resources/notes/notes_chapter_2.pdf)"
       - date: 2023-4-25
         events:
