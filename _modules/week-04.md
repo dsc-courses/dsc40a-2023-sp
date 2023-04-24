@@ -4,7 +4,7 @@
     days:
       - date: 2023-4-24
         events:
-          "**LEC 10**{: .label .label-lecture } (coming soon)":
+          "**LEC 10**{: .label .label-lecture } [Regression via Linear Algebra](resources/lecture/lec10.pdf) [👩‍💻](http://datahub.ucsd.edu/user-redirect/git-sync?repo=https://github.com/dsc-courses/dsc40a-2023-sp&subPath=resources/lecture/lec10/lec10.ipynb)":
       - date: 2023-4-25
         events:
           "**HW 3**{: .label .label-hw } [Homework 3](resources/homework/hw3/homework3.pdf) [🍃](https://www.overleaf.com/read/sdpmwsjpzgnj)":
