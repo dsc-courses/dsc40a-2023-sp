@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Homework 3 is now posted. To copy the Overleaf template, follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project). This is a pretty long homework, so make sure to get started early, and attend lecture so you don't fall behind.
+Homework 4 is now posted. To copy the Overleaf template, follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project). 
 
 {{ site.staffersnobio }}
 
