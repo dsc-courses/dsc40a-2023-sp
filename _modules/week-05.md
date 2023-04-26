@@ -7,7 +7,7 @@
           "**LEC 13**{: .label .label-lecture } (coming soon)":
       - date: 2023-5-2
         events:
-          "**HW 4**{: .label .label-hw } (coming soon)":
+          "**HW 3**{: .label .label-hw } [Homework 4](resources/homework/hw4/homework4.pdf) [🍃](https://www.overleaf.com/read/zrhbfxsbqdrj)":
       - date: 2023-5-3
         events:
           "**LEC 14**{: .label .label-lecture } (coming soon)":
@@ -16,3 +16,5 @@
         events:
           "**EXAM**{: .label .label-exam } Midterm 1 (during lecture) [📝](resources/notes/reference_1.pdf)":
 ---
+
+
