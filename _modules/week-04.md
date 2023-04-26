@@ -11,7 +11,7 @@
           "**HW 3**{: .label .label-hw } [Homework 3](resources/homework/hw3/homework3.pdf) [🍃](https://www.overleaf.com/read/sdpmwsjpzgnj)":
       - date: 2023-4-26
         events:
-          "**LEC 11**{: .label .label-lecture } [The Normal Equations](resources/lecture/lec11.pdf)":
+          "**LEC 11**{: .label .label-lecture } [The Normal Equations](resources/lecture/lec11.pdf) [✏️](resources/lecture/lec11_a00.pdf)":
             "[📖 11-19](resources/notes/notes_chapter_2.pdf)"
           "**DISC**{: .label .label-disc } [Groupwork 4](resources/groupwork/groupwork4.pdf)":
       - date: 2023-4-28
