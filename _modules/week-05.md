@@ -14,5 +14,5 @@
           "**DISC**{: .label .label-disc } Midterm 1 Prep":
       - date: 2023-5-5
         events:
-          "**EXAM**{: .label .label-exam } Midterm 1 (during lecture)":
+          "**EXAM**{: .label .label-exam } Midterm 1 (during lecture) [📝](resources/notes/reference_1.pdf)":
 ---
