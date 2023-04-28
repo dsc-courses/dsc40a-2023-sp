@@ -12,9 +12,10 @@
       - date: 2023-4-26
         events:
           "**LEC 11**{: .label .label-lecture } [The Normal Equations](resources/lecture/lec11.pdf) [✏️](resources/lecture/lec11_a00.pdf)":
-            "[📖 11-19](resources/notes/notes_chapter_2.pdf)"
+            "[📖 11-14](resources/notes/notes_chapter_2.pdf)"
           "**DISC**{: .label .label-disc } [Groupwork 4](resources/groupwork/groupwork4.pdf)":
       - date: 2023-4-28
         events:
-          "**LEC 12**{: .label .label-lecture } (coming soon)":
+          "**LEC 12**{: .label .label-lecture } [Multiple Linear Regression and Feature Engineering](resources/lecture/lec12.pdf)":
+            "[📖 14-19](resources/notes/notes_chapter_2.pdf)"
 ---
