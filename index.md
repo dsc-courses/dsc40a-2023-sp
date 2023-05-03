@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-Homework 4 is now posted. To copy the Overleaf template, follow [these instructions](https://www.overleaf.com/learn/how-to/Copying_a_project#Making_a_copy_of_a_project). 
+Midterm 1 is on Friday during lecture!
 
 {{ site.staffersnobio }}
 
