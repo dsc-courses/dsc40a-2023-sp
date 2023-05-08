@@ -13,9 +13,6 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-#{: .note }
-#Put note here.
-
 {{ site.staffersnobio }}
 
 [Jump to the current week](#week-2){: .btn .btn-yellow} [Lecture Recordings](https://podcast.ucsd.edu/){: .btn .btn-blue } [Assignment Solutions](https://campuswire.com/c/GAA3B3FEA/feed/17){: .btn .btn-purple }
