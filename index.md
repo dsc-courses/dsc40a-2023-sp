@@ -13,8 +13,8 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
-{: .note }
-Check your [seating assignment 🪑](resources/exams/seating_midterm1.pdf) before coming to the midterm on Friday! You will be given this [reference sheet 📝](resources/exams/reference_1.pdf) but no calculators or other aids are allowed.
+#{: .note }
+#Put note here.
 
 {{ site.staffersnobio }}
 
