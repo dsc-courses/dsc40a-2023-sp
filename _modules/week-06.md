@@ -4,7 +4,7 @@
     days:
       - date: 2023-5-8
         events:
-          "**LEC 15**{: .label .label-lecture } [Foundations of Probability](resources/lecture/lec15.pdf)":
+          "**LEC 15**{: .label .label-lecture } [Foundations of Probability](resources/lecture/lec15.pdf) [✏️](resources/lecture/lec15_b00.pdf)":
       - date: 2023-5-10
         events:
           "**LEC 16**{: .label .label-lecture } (coming soon)":
