@@ -11,5 +11,5 @@
           "**DISC**{: .label .label-disc } [Groupwork 5](resources/groupwork/groupwork5.pdf)":
       - date: 2023-5-12
         events:
-          "**LEC 17**{: .label .label-lecture } [Sequences, Permutations, and Combinations](resources/lecture/lec17.pdf) ":
+          "**LEC 17**{: .label .label-lecture } [Sequences, Permutations, and Combinations](resources/lecture/lec17.pdf) [✏️](resources/lecture/lec17_a00.pdf)":
 ---
