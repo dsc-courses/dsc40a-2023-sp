@@ -4,7 +4,7 @@
     days:
       - date: 2023-5-15
         events:
-          "**LEC 18**{: .label .label-lecture } [Probability and Combinatorics Examples](resources/lecture/lec18.pdf)":
+          "**LEC 18**{: .label .label-lecture } [Probability and Combinatorics Examples](resources/lecture/lec18.pdf) [✏️](resources/lecture/lec18_a00.pdf)":
       - date: 2023-5-16
         events:
           "**HW 5**{: .label .label-hw } [Homework 5](resources/homework/hw5/homework5.pdf) [🍃](https://www.overleaf.com/read/ctpttsrbbrpb)":
