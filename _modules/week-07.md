@@ -10,7 +10,7 @@
           "**HW 5**{: .label .label-hw } [Homework 5](resources/homework/hw5/homework5.pdf) [🍃](https://www.overleaf.com/read/ctpttsrbbrpb)":
       - date: 2023-5-17
         events:
-          "**LEC 19**{: .label .label-lecture } (coming soon)":
+          "**LEC 19**{: .label .label-lecture } [More Probability and Combinatorics Examples](resources/lecture/lec19.pdf)":
           "**DISC**{: .label .label-disc } [Groupwork 6](resources/groupwork/groupwork6.pdf)":
       - date: 2023-5-19
         events:
