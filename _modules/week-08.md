@@ -7,7 +7,7 @@
           "**LEC 21**{: .label .label-lecture } (coming soon)":
       - date: 2023-5-23
         events:
-          "**HW 6**{: .label .label-hw } (coming soon)":
+          "**HW 6**{: .label .label-hw } [Homework 6](resources/homework/hw6/homework6.pdf) [🍃](https://www.overleaf.com/read/jdwzqttznxmt)":
       - date: 2023-5-24
         events:
           "**LEC 22**{: .label .label-lecture } (coming soon)":
