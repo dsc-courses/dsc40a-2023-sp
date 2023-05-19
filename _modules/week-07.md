@@ -14,5 +14,5 @@
           "**DISC**{: .label .label-disc } [Groupwork 6](resources/groupwork/groupwork6.pdf)":
       - date: 2023-5-19
         events:
-          "**LEC 20**{: .label .label-lecture } (coming soon)":
+          "**LEC 20**{: .label .label-lecture } [Law of Total Probability and Bayes' Theorem](resources/lecture/lec20.pdf)":
 ---
