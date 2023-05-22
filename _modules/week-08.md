@@ -4,7 +4,7 @@
     days:
       - date: 2023-5-22
         events:
-          "**LEC 21**{: .label .label-lecture } (coming soon)":
+          "**LEC 21**{: .label .label-lecture } [Independence and Conditional Independence](resources/lecture/lec21.pdf)":
       - date: 2023-5-23
         events:
           "**HW 6**{: .label .label-hw } [Homework 6](resources/homework/hw6/homework6.pdf) [🍃](https://www.overleaf.com/read/jdwzqttznxmt)":
