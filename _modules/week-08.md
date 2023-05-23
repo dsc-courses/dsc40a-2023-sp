@@ -10,7 +10,7 @@
           "**HW 6**{: .label .label-hw } [Homework 6](resources/homework/hw6/homework6.pdf) [🍃](https://www.overleaf.com/read/jdwzqttznxmt)":
       - date: 2023-5-24
         events:
-          "**LEC 22**{: .label .label-lecture } Independence and Conditional Independence":
+          "**LEC 22**{: .label .label-lecture } [Independence and Conditional Independence](resources/lecture/lec22.pdf)":
           "**DISC**{: .label .label-disc } [Groupwork 7](resources/groupwork/groupwork7.pdf)":
       - date: 2023-5-26
         events:
