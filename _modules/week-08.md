@@ -14,5 +14,5 @@
           "**DISC**{: .label .label-disc } [Groupwork 7](resources/groupwork/groupwork7.pdf)":
       - date: 2023-5-26
         events:
-          "**LEC 23**{: .label .label-lecture } (coming soon)":
+          "**LEC 23**{: .label .label-lecture } [Naive Bayes](resources/lecture/lec23.pdf)":
 ---
