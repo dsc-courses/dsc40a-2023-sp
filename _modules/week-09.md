@@ -11,7 +11,7 @@
           "**DISC**{: .label .label-disc } Midterm 2 Prep":
       - date: 2023-6-1
         events:
-          "**HW 7**{: .label .label-hw } [Homework 7](resources/homework/hw7/homework7.pdf)":
+          "**HW 7**{: .label .label-hw } [Homework 7](resources/homework/hw7/homework7.pdf) [🍃](https://www.overleaf.com/read/zkppqvmmtbtb)":
       - date: 2023-6-2
         events:
           "**LEC 25**{: .label .label-lecture } (coming soon)":
