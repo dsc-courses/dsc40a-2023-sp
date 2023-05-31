@@ -7,7 +7,7 @@
           "Memorial Day Holiday":
       - date: 2023-5-31
         events:
-          "**LEC 24**{: .label .label-lecture } [More Naive Bayes](resources/lecture/lec24.pdf)":
+          "**LEC 24**{: .label .label-lecture } [More Naive Bayes](resources/lecture/lec24.pdf) [✏️](resources/lecture/lec24_b00.pdf)":
           "**DISC**{: .label .label-disc } Midterm 2 Prep: [Mock Exam](resources/exams/mockmidterm2.pdf), [Solutions](resources/exams/mockmidterm2sol.pdf), and [Rubric](resources/exams/mockmidterm2rubric.pdf)":
       - date: 2023-6-1
         events:
