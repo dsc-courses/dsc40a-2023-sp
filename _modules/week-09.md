@@ -14,5 +14,5 @@
           "**HW 7**{: .label .label-hw } [Homework 7](resources/homework/hw7/homework7.pdf) [🍃](https://www.overleaf.com/read/zkppqvmmtbtb)":
       - date: 2023-6-2
         events:
-          "**LEC 25**{: .label .label-lecture } [Precision and Recall](resources/lecture/lec25S.pdf)":
+          "**LEC 25**{: .label .label-lecture } [Precision and Recall](resources/lecture/lec25.pdf)":
 ---
