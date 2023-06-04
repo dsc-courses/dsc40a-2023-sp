@@ -4,14 +4,14 @@
     days:
       - date: 2023-6-5
         events:
-          "**EXAM**{: .label .label-exam } Midterm 2 (during lecture)":
+          "**EXAM**{: .label .label-exam } Midterm 2 (during lecture) [🪑](resources/exams/seating_midterm2.pdf)":
       - date: 2023-6-7
         events:
-          "**LEC 26**{: .label .label-lecture } Review":
+          "**LEC 26**{: .label .label-lecture } Review of Midterm 2 Solutions":
           "**DISC**{: .label .label-disc } Final Exam Prep":
       - date: 2023-6-9
         events:
-          "**LEC 27**{: .label .label-lecture } Review":
+          "**LEC 27**{: .label .label-lecture } Review of Part 1":
       - date: 2023-6-10
         events:
           "**EXAM**{: .label .label-exam } Final Exam (Part 1 at 9am, Part 2 at 10am)":
