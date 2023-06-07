@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-[🪑 Seating assignments](resources/exams/seating_midterm2.pdf) for Midterm 2 are now available.
+See Week 10 below for all our review plans this week!
 
 {{ site.staffersnobio }}
 
