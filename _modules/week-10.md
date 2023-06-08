@@ -15,6 +15,6 @@
       - date: 2023-6-10
         events:
           "**EXAM**{: .label .label-exam } Final Exam in Center 115 (Part 1 at 9am, Part 2 at 10am)":
-          "**SURV**{: .label .label-survey } [End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSdDIPOA3nHQco6KH332wSie2GbRjmNk3FrG0-iQ8Z4SWV_kHg/viewform?usp=sf_link) + [CAPEs](https://cape.ucsd.edu)":
+          "**SURV**{: .label .label-survey } [End of Quarter Survey](https://docs.google.com/forms/d/e/1FAIpQLSdDIPOA3nHQco6KH332wSie2GbRjmNk3FrG0-iQ8Z4SWV_kHg/viewform?usp=sf_link) + [SETs](https://academicaffairs.ucsd.edu/Modules/Evals)":
 
 ---
