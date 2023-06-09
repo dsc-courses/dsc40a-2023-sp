@@ -14,7 +14,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 {: .note }
-The quarter is almost over and we'd like your feedback.  If at least 85% of the class fills out both the [End of Quarter Survey](https://forms.gle/RLSFGKLVsmwtftncA) and [SETs (Student Evaluations of Teaching)](https://academicaffairs.ucsd.edu/Modules/Evals), we will add 0.5% of extra credit to everyone's overall grade. The deadline to complete both surveys is **Saturday, June 10 at 9AM**.
+[🪑 Seating assignments](resources/exams/seating_final.pdf) for the final exam are now posted. Note that our final is in Center 115, not our regular classroom!  Also, if at least 85% of the class fills out both the [End of Quarter Survey](https://forms.gle/RLSFGKLVsmwtftncA) and [SETs (Student Evaluations of Teaching)](https://academicaffairs.ucsd.edu/Modules/Evals), we will add 0.5% of extra credit to everyone's overall grade. The deadline to complete both surveys is **Saturday, June 10 at 9AM**.
 
 {{ site.staffersnobio }}
 
